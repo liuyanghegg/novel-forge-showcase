@@ -1,0 +1,15 @@
+# 本仓库只存放对外说明文档，不含任何源码
+*.js
+*.ts
+*.tsx
+*.jsx
+*.py
+*.go
+*.rs
+node_modules/
+.env
+.env.*
+data/
+*.db
+*.sqlite
+*.key
