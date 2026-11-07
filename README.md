@@ -260,7 +260,7 @@ Key 存在你自己的账号库，接口只返回脱敏值（`sk-1…abcd`），
 
 ## 更新记录
 
-见 [CHANGELOG.md](CHANGELOG.md)
+见 [CHANGELOG.md](./CHANGELOG.md)
 
 ## 许可
 
