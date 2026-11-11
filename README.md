@@ -1,8 +1,10 @@
 # 小说工坊 · Novel Forge
 
-**一款会自动成长的 AI 长篇小说创作系统。**
+**AI小说 · AI自动小说 · AI写小说 · 长篇网文生成器 —— 一款会自动成长的小说创作系统。**
 
 你写一句灵感，它补全设定、拆蓝图、逐章生成；你对它提意见，它自己读、自己改、自己维护。
+
+适合用 AI 写小说、自动写网文、批量生成章节的作者：从一句灵感出发，自动补全世界观与人物、拆解章节蓝图、逐章写正文，并自动审稿、润稿、定稿；也支持 AI 拆书仿写、续写、改写与去 AI 味。
 
 > **在线试用**：https://8788-320fff855afde051.monkeycode-ai.online
 > 测试账号：`admin` / `novelforge-beta`（公开测试环境，数据可能随时重置）
@@ -266,6 +268,14 @@ Key 存在你自己的账号库，接口只返回脱敏值（`sk-1…abcd`），
 **Q：会开源吗？**
 
 暂不开源。这个仓库用于发布版本说明、已知问题和收集反馈。
+
+---
+
+## 关键词与适用场景
+
+AI小说、AI自动小说、AI写小说、AI小说生成器、自动写小说、小说生成器、网文生成器、网文写作、长篇小说、长篇连载、中文小说、玄幻 / 都市 / 悬疑 / 言情小说、大纲生成、章节蓝图、逐章生成、批量创作、人物设定、世界观设定、伏笔管理、连贯性校验、审稿、润稿、改稿、续写、改写、拆书、仿写、去 AI 味、大模型写作、LLM 写作、DeepSeek、OpenAI 兼容接口、本地模型。
+
+English keywords: AI novel writer, AI novel generator, AI story generator, automatic novel writing, Chinese web novel / webnovel, long-form fiction, outline generation, chapter-by-chapter generation, batch writing, character & worldbuilding, foreshadowing tracking, consistency checking, critique & revise, continue writing, rewrite, de-AI style, LLM, DeepSeek, OpenAI-compatible, local model.
 
 ---
 
